@@ -1,0 +1,6 @@
+1. Display the even numbers from x to y.
+2. Display the odd numbers from x to y.
+3. Display the squares gained from numbers between x and y.
+4. Display the squares that are between x and y
+5. Change x/y values.
+6. Exit this program.

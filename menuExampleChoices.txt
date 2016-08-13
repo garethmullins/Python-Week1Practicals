@@ -1,0 +1,3 @@
+H, Hello
+G, Goodbye
+Q, Finished
